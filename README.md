@@ -1,2 +1,3 @@
 # My-first-Repository
-It's my first r
+It's my first Repository.
+
